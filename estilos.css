@@ -65,7 +65,13 @@
      color: green;
  }
  .fondoiconotwiter{
-     color:blue
+     color:rgba(0, 0, 255, 0.472)
+ }
+ .fondoinstagram{
+    color: orangered;
+ }
+ .fondofacebook{
+     color: rgba(0, 0, 255, 0.39);
  }
 
  .fondo2{
